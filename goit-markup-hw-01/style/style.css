@@ -1,0 +1,55 @@
+.container{
+   min-width: 1600px;
+   margin:  0 auto;
+}
+
+.flex{
+    display: flex;
+    
+    align-items: center;
+
+}
+.button{
+    padding: 10px;
+    height: 40px;
+width: 140px;
+left: 692px;
+top: 430px;
+border-radius: 4px;
+background: blue;
+color: #000;
+cursor: pointer;
+
+}
+.header{
+    margin: 13px auto 15px;
+}
+.header_link{
+    font-size: 14px;
+    font-heigt; 16px;
+    text-decoration: none
+}
+.header_ol{
+    display: flex;
+    gap: 70px;
+}
+.main{
+    background:#2F303A ;
+    padding: 200px;
+width: 1600px;
+height: 400px;
+color: #fff;
+}
+.footer{
+    background: #babbc7;
+    padding: 20px;
+}
+
+
+
+
+
+
+
+
+
